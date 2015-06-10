@@ -196,7 +196,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Moscow
    - [Rails Club](http://railsclub.ru)
-      - 2015 @ Moscow; May/21+22
+      - 2015 @ Moscow; Sept/26
 
 
 ## America
